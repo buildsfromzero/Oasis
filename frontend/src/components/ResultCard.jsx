@@ -1,0 +1,1 @@
+// ResultCard.jsx placeholder
